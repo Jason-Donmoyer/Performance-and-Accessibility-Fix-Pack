@@ -4,21 +4,21 @@ export default function Services() {
             <h2>Services Offered</h2>
             <div>
                 <h2>House Cleaning</h2>
-                <img src="/house-cleaning.jpg" />
+                <img src="/house-cleaning.webp" style={{ width: '100%' }} />
                 <div>
                     <p>Price: <span>$50/cleaning</span></p>
                 </div>
             </div>
             <div>
                 <h2>Deep Clean</h2>
-                <img src="/vacuum.jpg" />
+                <img src="/vacuum.webp" style={{ width: '100%' }} />
                 <div>
                     <p>Price: <span>$100/cleaning</span></p>
                 </div>
             </div>
             <div>
                 <h2>Moving In / Moving Out Cleaning</h2>
-                <img src="/clean-kitchen.jpg" />
+                <img src="/clean-kitchen.webp" style={{ width: '100%' }} />
                 <div>
                     <p>Price: <span>$125/cleaning</span></p>
                 </div>
