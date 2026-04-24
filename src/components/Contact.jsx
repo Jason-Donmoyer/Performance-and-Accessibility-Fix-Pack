@@ -4,14 +4,14 @@ export default function Contact() {
             <h2>Contact Us!</h2>
             <div>
                 <form action="">
-                    <p>Name</p>
-                    <input type="text" />
-                    <p>Phone Number</p>
-                    <input type="text" />
-                    <p>Email</p>
-                    <input type="email" />
-                    <p>Service Requested</p>
-                    <input type="text" />
+                    <label htmlFor="name">Name</label>
+                    <input type="text" id="name" />
+                    <label htmlFor="phone">Phone Number</label>
+                    <input type="text" id="phone" />
+                    <label htmlFor="email">Email</label>
+                    <input type="email" id="email" />
+                    <label htmlFor="service">Service Requested</label>
+                    <input type="text" id="service" />
                     <div>Submit</div>
                 </form>
             </div>
