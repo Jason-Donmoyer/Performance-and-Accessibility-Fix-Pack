@@ -35,7 +35,7 @@ export default function Services() {
                     <p>Price: <span>$125/cleaning</span></p>
                 </div>
             </div>
-            <div>Contact Us</div>
+            <button style={{ padding: '8px 16px' }}>Contact Us</button>
         </div>
     )
 }
