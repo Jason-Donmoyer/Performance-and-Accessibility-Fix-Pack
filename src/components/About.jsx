@@ -1,6 +1,6 @@
 export default function About() {
     return (
-        <div style={{backgroundColor: 'white', color: '#cccccc'}}>
+        <div style={{backgroundColor: 'white', color: 'black'}}>
             <h2>Our Story</h2>
             <div>
                 <h3>Who We Are</h3>
