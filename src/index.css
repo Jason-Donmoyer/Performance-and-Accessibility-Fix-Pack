@@ -1,0 +1,11 @@
+:root {
+    --primary: #2DAAE1;
+    --secondary: #17324D;
+    --accent: #FFD447;
+    --mint: #6ED3B5;
+    --bg: #F9FCFE;
+    --gray: #D8E1E8;
+  
+    --font-heading: 'Montserrat', sans-serif;
+    --font-body: 'Roboto', sans-serif;
+  }
